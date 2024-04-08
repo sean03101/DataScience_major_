@@ -6,6 +6,5 @@
 <br>
 
 ## ※ 랩실 프로젝트 링크 ※
-<br>
-- [TDoA 확률화 이미지를활용한딥러닝기반타겟 추적모델](https://github.com/sean03101/UWB-Indoor-Tracking)
 
+- [TDoA 확률화 이미지를활용한딥러닝기반타겟 추적모델]([https://github.com/sean03101/ITM/tree/main/%EB%9E%A9%EC%8B%A4/%EB%85%BC%EB%AC%B8](https://github.com/sean03101/UWB-Indoor-Tracking))
