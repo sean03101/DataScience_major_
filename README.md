@@ -20,23 +20,19 @@
 
 - [Domain Augmentation Framework for Environmentally Robust Defect Classification]()
 
-
-### 학회
-
-- [초기 데이터 부족으로 발생하는 Coldstart 문제 해결을 위한 CLIP 기반 Active Learning]()
-
 <br>
 
 - [Prompt Diversity 측정을 통한 효율적인 VLM Active Learning]()
 
+### 학회
+
+- [초기 데이터 부족으로 발생하는 Coldstart 문제 해결을 위한 CLIP 기반 Active Learning]()
 
 ### 기업 프로젝트
 
 - [딥러닝 기반 다변량 스팀 사용 이상 감지 및 영향변수의 원인 분석 기능 제작]()
 
 ### 기타 연구
-
-<br>
 
 - [VLM Zero-shot Domain Adaptation]()
 
