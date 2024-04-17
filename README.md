@@ -9,7 +9,7 @@
 - 불법 OTT
 
 ### 해커톤
-- [불법복제품 근절을 위한 통관물품 판독 아이디어 NIPA 해커톤]()
+- [불법복제품 근절을 위한 통관물품 판독 아이디어 NIPA 해커톤](https://github.com/sean03101/DataScience_major_/tree/main/NIPA%20%ED%95%B4%EC%BB%A4%ED%86%A4)
 
 ## ※ 랩실 연구 및 프로젝트 링크 ※
 
