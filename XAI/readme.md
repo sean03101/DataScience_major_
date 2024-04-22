@@ -14,9 +14,7 @@ LIME(Local Interpretable Model-agnostic Explanations)
       4) Weighted, interpretable model을 학습한다.
       5) Local model을 해석함으로써 관심개체에 대한 예측을 설명한다.
 
-<br>
-
-
+        
 
   - 장점
       1) 블랙박스 모델에 관계 없이 모델을 설명할 수 있다. (Local model agnostic)
