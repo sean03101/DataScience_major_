@@ -15,13 +15,16 @@ LIME(Local Interpretable Model-agnostic Explanations)
       5) Local model을 해석함으로써 관심개체에 대한 예측을 설명한다.
 
 <br>
+
+
+
   - 장점
-    1) 블랙박스 모델에 관계 없이 모델을 설명할 수 있다. (Local model agnostic)
-    2) 테이블, 텍스트, 이미지 데이터 모두에서 사용 가능하다.
+      1) 블랙박스 모델에 관계 없이 모델을 설명할 수 있다. (Local model agnostic)
+      2) 테이블, 텍스트, 이미지 데이터 모두에서 사용 가능하다.
   - 단점
-    1) Hyperparameter 대한 민감성 : LIME에서 설정하는 hyperparameter에 따라 설명의 결과가 완전히 다를 수 있다.
-    2) 데이터 생성의 랜덤성 : 무작위로 교란(perturb)을 통해 생성된 샘플로 학습된 local surrogate model은 블랙 박스 모델을 충분히 근사하지 않을 수 있다.
-    3) 불안정성 : 동일한 데이터 객체에 대해서도 매번 서로 다른 설명을 도출할 수 있다. 
+      1) Hyperparameter 대한 민감성 : LIME에서 설정하는 hyperparameter에 따라 설명의 결과가 완전히 다를 수 있다.
+      2) 데이터 생성의 랜덤성 : 무작위로 교란(perturb)을 통해 생성된 샘플로 학습된 local surrogate model은 블랙 박스 모델을 충분히 근사하지 않을 수 있다.
+      3) 불안정성 : 동일한 데이터 객체에 대해서도 매번 서로 다른 설명을 도출할 수 있다. 
 
 
 
