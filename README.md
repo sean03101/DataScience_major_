@@ -4,7 +4,7 @@
 ## 학교 다니면서 들었던 수업 & 과제 & 발표 & 팀프로젝트 모음zip
 
 ### 팀 프로젝트
-- XAI
+- [XAI](https://github.com/sean03101/DataScience_major_/tree/main/XAI)
 
 - 불법 OTT
 
