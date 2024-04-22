@@ -38,4 +38,20 @@ LIME(Local Interpretable Model-agnostic Explanations)
 - Border emphasis LIME은 **<U>black box model의 클래스 간 경계에 있는 데이터 샘플의 개수를 늘림으로써 local surrogate model의 정확도와 설명력을 높임</U>**
 - 지역적으로 black box model과 더욱 유사한 surrogate model을 생성할 수 있음
 
+<br>
+
+제안하는 방법은 
+  1) 기존의 LIME과 동일한 방식으로 설명하고자 하는 데이터 객체 주변으로 Random perturbation을 통해 데이터 샘플 생성
+  2) 유클리디안 거리를 이용해 각 샘플 별 k개의 이웃 샘플 선택
+  3) 이웃 샘플들 중 서로 다른 클래스(Black box model의 예측 클래스)에 속한 샘플이 존재할 경우 아래와 같은 수식을 통해 추가적으로 데이터 샘플을 생성
+     -    추가 데이터(s) 생성 (𝑥^𝑅: 다른 클래스에 속한 데이터 샘플, 0≤𝜇≤1)
+      ![image](https://github.com/sean03101/DataScience_major_/assets/59594037/48e7c85e-0cda-43ef-aca5-886793e620cb)
+  4) Random perturbation으로 생성한 샘플들에 추가적으로 생성한 샘플들을 더하여 local surrogate model을 학습
+
+### 기대 효과
+
+ - Border line에서의 LIME의 불안정성을 개선할 수 있다.
+ - 지역적인 부분에서 블랙박스 모델과 더 유사한 Local surrogate model을 학습시킬 수 있다.
+ - 블랙박스 모델에 대해 더 정확한 설명력을 가지는 Local surrogate model을 학습시킬 수 있다.
+
 
