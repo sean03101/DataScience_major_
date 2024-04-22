@@ -30,8 +30,12 @@ LIME(Local Interpretable Model-agnostic Explanations)
 
 ![image](https://github.com/sean03101/DataScience_major_/assets/59594037/ed662a34-fbbf-4014-8c9b-b616f5f46260)
 
-- Classification black box model에 적용가능한 Local surrogate method
+- **Classification black box model에 적용 가능한 Local surrogate method**
+- 기존 LIME은 설명하고자 하는 샘플 주위에 무작위로 교란된 샘플들을 생성하고 local surrogate model을 학습 -> 이렇게 학습된 local surrogate model은 지역적으로 블랙박스 모델과 유사하지 않을 수 있으며 설명의 결과가 정확하지 않을 수 있음
 
+<br>
 
+- Border emphasis LIME은 **<U>black box model의 클래스 간 경계에 있는 데이터 샘플의 개수를 늘림으로써 local surrogate model의 정확도와 설명력을 높임</U>**
+- 지역적으로 black box model과 더욱 유사한 surrogate model을 생성할 수 있음
 
 
