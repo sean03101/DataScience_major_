@@ -10,15 +10,15 @@
 
 ## 제안 아이디어
 
-![image](./img/process_overview.jpg)
+![image](./img/process_overview.png)
 
 <br>
 
-![image](./img/framework1.jpg)
+![image](./img/framework1.png)
 
 <br>
 
-![image](./img/framework2.jpg)
+![image](./img/framework2.png)
 
 <br>
 
