@@ -2,6 +2,8 @@
 
 ### 연구 배경
 ![image](https://github.com/sean03101/DataScience_major_/assets/59594037/84626bd0-7326-49ba-9704-ff65b636d595)
+
+
 LIME(Local Interpretable Model-agnostic Explanations) 
   - 블랙박스 모델의 예측에 대해 해석 가능한 모델로 지역적으로 근사 시킴으로써 블랙박스 모델을 설명
   - 개별 데이터 객체에 대한 블랙박스 모델의 예측을 설명하기 위하여 local surrogate model을 학습
