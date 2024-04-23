@@ -51,3 +51,12 @@
 
   - Agent modeling을 활용한 설문 조사
     - 부족한 실제 설문 조사자 수를 채우기 위해 foundation model을 통해 Agent Modeling 진행 / **(어떠한 현상이 일어났는지에 대한 분석이 아니라 어떠한 사건의 결과값이 목적이기에 사람이 알 수 없는 블랙박스 모델을 통해 결과를 도출하여도 크게 문제 없다 판단)**
+    - Agent 모델의 다양성을 위해 다양한 foundation model 사용
+    - foundation model에게 상황 설명 및 역할 분담 후 불법 OTT 사용과 관련된 설문조사를 agent modeling 진행
+    - 수집한 데이터 비교 및 분석 실시
+    - 실제 설문조사 데이터와 합쳐 분석 진행
+   
+    ![image](https://github.com/sean03101/DataScience_major_/assets/59594037/f7881c0e-df90-4d6c-a3b2-7f11c8462143)
+
+
+  - 실험 결과 분석
