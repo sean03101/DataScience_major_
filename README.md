@@ -6,7 +6,7 @@
 ### 팀 프로젝트
 - [XAI](https://github.com/sean03101/DataScience_major_/tree/main/XAI)
 
-- 불법 OTT
+- [알고리즘 마케팅](https://github.com/sean03101/DataScience_major_/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EB%A7%88%EC%BC%80%ED%8C%85)
 
 ### 해커톤
 - [불법복제품 근절을 위한 통관물품 판독 아이디어 NIPA 해커톤](https://github.com/sean03101/DataScience_major_/tree/main/NIPA%20%ED%95%B4%EC%BB%A4%ED%86%A4)
