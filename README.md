@@ -20,9 +20,6 @@
 
 - [Domain Augmentation Framework for Environmentally Robust Defect Classification](https://github.com/sean03101/iai-project/tree/main/%EC%A0%84%EC%9E%90%20%EC%A0%9C%EC%A1%B0%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 
-<br>
-
-- [Prompt Diversity 측정을 통한 효율적인 VLM Active Learning]()
 
 ### 학회
 
@@ -43,6 +40,10 @@
 <br>
 
 - [2022 Samsung AI Challenge (3D Metrology)]()
+
+<br>
+
+- [TTA DG active learning]()
 
 
 ## ※ 학부 ※
