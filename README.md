@@ -35,6 +35,10 @@
 
 ### 기타 연구
 
+- [Test Time Auto Augmentation for Domain Shift]()
+
+<br>
+
 - [VLM Zero-shot Domain Adaptation]()
 
 <br>
