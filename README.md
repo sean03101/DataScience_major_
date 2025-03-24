@@ -1,5 +1,9 @@
 # 서울과학기술대학교 데이터사이언스학과 22.02 ~ 24.08
 
+## ※ 학부(개발 위주) ※
+
+- [ITM](https://github.com/sean03101/ITM)
+
 
 ## 학교 다니면서 들었던 수업 & 과제 & 발표 & 팀프로젝트 모음zip
 
@@ -44,8 +48,3 @@
 <br>
 
 - [TTA DG active learning]()
-
-
-## ※ 학부 ※
-
-- [ITM](https://github.com/sean03101/ITM)
