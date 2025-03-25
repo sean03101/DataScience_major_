@@ -1,8 +1,7 @@
 # 서울과학기술대학교 데이터사이언스학과 22.02 ~ 24.08
 
-## ※ 학부 ※
+## ※ 학부[ITM](https://github.com/sean03101/ITM) ※
 
-- [ITM](https://github.com/sean03101/ITM)
 
 - [국내 코로나 확진자 데이터 분석을 통한 지역 간 감염 전파 시뮬레이션 연구](https://github.com/sean03101/ITM/tree/main/%EB%9E%A9%EC%8B%A4/%EB%85%BC%EB%AC%B8)
 
