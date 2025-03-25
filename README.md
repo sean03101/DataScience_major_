@@ -1,6 +1,18 @@
 # 서울과학기술대학교 데이터사이언스학과 22.02 ~ 24.08
 
-## ※ 학부[ITM](https://github.com/sean03101/ITM) ※
+## 학교 다니면서 들었던 수업 & 과제 & 발표 & 팀프로젝트 모음zip
+
+
+### 팀 프로젝트
+- [XAI](https://github.com/sean03101/DataScience_major_/tree/main/XAI)
+
+- [알고리즘 마케팅](https://github.com/sean03101/DataScience_major_/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EB%A7%88%EC%BC%80%ED%8C%85)
+
+### 해커톤
+- [불법복제품 근절을 위한 통관물품 판독 아이디어 NIPA 해커톤](https://github.com/sean03101/DataScience_major_/tree/main/NIPA%20%ED%95%B4%EC%BB%A4%ED%86%A4)
+
+
+## ※ 학부( [ITM](https://github.com/sean03101/ITM) )※
 
 
 - [국내 코로나 확진자 데이터 분석을 통한 지역 간 감염 전파 시뮬레이션 연구](https://github.com/sean03101/ITM/tree/main/%EB%9E%A9%EC%8B%A4/%EB%85%BC%EB%AC%B8)
@@ -35,15 +47,6 @@
 - [SNS 형태 친환경 쇼핑몰 웹사이트 기획 & 제작](https://github.com/sean03101/kusitms)
 
 
-## 학교 다니면서 들었던 수업 & 과제 & 발표 & 팀프로젝트 모음zip
-
-### 팀 프로젝트
-- [XAI](https://github.com/sean03101/DataScience_major_/tree/main/XAI)
-
-- [알고리즘 마케팅](https://github.com/sean03101/DataScience_major_/tree/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EB%A7%88%EC%BC%80%ED%8C%85)
-
-### 해커톤
-- [불법복제품 근절을 위한 통관물품 판독 아이디어 NIPA 해커톤](https://github.com/sean03101/DataScience_major_/tree/main/NIPA%20%ED%95%B4%EC%BB%A4%ED%86%A4)
 
 ## ※ 랩실 연구 및 프로젝트 링크 ※
 
