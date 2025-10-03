@@ -1,6 +1,4 @@
-# 서울과학기술대학교 데이터사이언스학과 22.02 ~ 24.08
-
-## 학교 다니면서 들었던 수업 & 과제 & 발표 & 팀프로젝트 모음zip
+## ※ 대학원※
 
 
 ### 팀 프로젝트
@@ -17,13 +15,19 @@
 
 ## 학부 주요 활동
 
+### 학부 연구생 논문
+
 - [국내 코로나 확진자 데이터 분석을 통한 지역 간 감염 전파 시뮬레이션 연구](https://github.com/sean03101/ITM/tree/main/%EB%9E%A9%EC%8B%A4/%EB%85%BC%EB%AC%B8)
 
 <br>
 
+### 인턴
+
 - [Etri 인턴 활동](https://github.com/sean03101/ITM/tree/main/%EC%97%90%ED%8A%B8%EB%A6%AC%20%EC%9D%B8%ED%84%B4)
 
 <br>
+
+### 팀프로젝트
 
 - [OTT 서비스 분석](https://github.com/sean03101/ITM/tree/main/IT%20Investment)
 
