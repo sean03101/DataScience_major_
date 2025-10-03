@@ -67,7 +67,11 @@
 
 ### 학회
 
-- [초기 데이터 부족으로 발생하는 Coldstart 문제 해결을 위한 CLIP 기반 Active Learning](https://github.com/sean03101/iai-project/tree/main/VLM%20Zero-shot%20Domain%20adaptation)
+- [초기 데이터 부족으로 발생하는 Coldstart 문제 해결을 위한 CLIP 기반 Active Learning](https://github.com/sean03101/iai-project/tree/main/%EC%B4%88%EA%B8%B0%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%80%EC%A1%B1%EC%9C%BC%EB%A1%9C%20%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94%20Coldstart%20%EB%AC%B8%EC%A0%9C%20%ED%95%B4%EA%B2%B0%EC%9D%84%20%EC%9C%84%ED%95%9C%20CLIP%20%EA%B8%B0%EB%B0%98%20Active%20Learning)
+
+<br>
+
+- [Fully Test-Time Domain Adaptation for Fine-Grained Defect Classification under Changing Manufacturing Environments](https://github.com/sean03101/iai-project/tree/main/Fully%20Test-Time%20Domain%20Adaptation%20for%20Fine-Grained%20Defect%20Classification%20under%20Changing%20Manufacturing%20Environments)
 
 ### 기업 프로젝트
 
@@ -84,7 +88,7 @@
 
 <br>
 
-- [VLM Zero-shot Domain Adaptation]()
+- [VLM Zero-shot Domain Adaptation](https://github.com/sean03101/iai-project/tree/main/VLM%20Zero-shot%20Domain%20Adaptation)
 
 <br>
 
@@ -93,7 +97,3 @@
 <br>
 
 - [2022 Samsung AI Challenge (3D Metrology)](https://github.com/sean03101/iai-project/tree/main/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90(SEM))
-
-<br>
-
-- [TTA DG active learning]()
